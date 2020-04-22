@@ -1,0 +1,81 @@
+a{
+	display: block;
+	font font-weight: bold;
+	color: #ffffff;
+	background: #0006cc;
+	width: 400px;
+	font-size: 50px;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-left: : 88px;
+}
+a:hover{
+	background: #b3b3b3;  /*here hover focus active are used for effect on link when we touch on it*/
+	color: #0006cc;
+}
+a:focus{
+	background: #b3b3b3;
+	color: #0006cc;
+}
+a:active{
+	border: 3px solid #000000;
+}
+.level1{
+	background-color:   #ADD8E6  ;
+	
+}
+body{
+	font-size: 25px;
+}
+h1{
+	text-align: center;
+}
+
+.level1 h1{
+	font-size: 100px;
+	font-style: italic;
+	color:  #191970 ;
+	background-color:  #E0FFFF ;
+
+}
+.level2{
+	background-color:   #B0C4DE ;
+}
+.level3{
+	background-color:  #E0FFFF ;
+}
+.level3{
+	 background-color:  #FAEBD7 ;
+}
+.level4{
+	background-color:  #F5DEB3 ;
+}
+.level4{
+	background-color:  #CD853F ;
+}
+.level5{
+	background-color:  #D3D3D3 ;
+}
+.level6{
+	background-color:   grey ;
+}
+.level6 h1{
+	font-style: italic;
+	font-size: 90px;
+	color: gold;
+}
+.level2 h1{
+	background-color:  #FFDEAD ;
+}
+.level3 h2{
+	background-color:    #FFDEAD ;
+}
+.level4 h1{
+	background-color:  #8B4513 ;
+}
+.level5 h1{
+	background-color:  #A9A9A9 ;
+}
